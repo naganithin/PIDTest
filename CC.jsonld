@@ -1,0 +1,23 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "CC": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "polygon-vocab": "urn:uuid:a6276a37-b9ee-47b7-9857-f416fbc446a2#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "Scope1": {
+                        "@id": "polygon-vocab:Scope1",
+                        "@type": "xsd:string"
+                    }
+                },
+                "@id": "urn:uuid:9e2d464b-8694-4856-bfe0-6f6632c0e6c1"
+            }
+        }
+    ]
+}
